@@ -1,0 +1,235 @@
+	Kingdom	Phylum	Class	Order	Family	Genus	Species
+Zotu1	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Chaetomium	Chaetomium_globosum
+Zotu10	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Beauveria	Baeuveria_bassiana
+Zotu100	Fungi	Ascomycota	Sordariomycetes				
+Zotu101	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Bionectriaceae	Geosmithia	
+Zotu102	Fungi	Basidiomycota	Agaricomycetes			Xylodon	
+Zotu103	Fungi	Ascomycota	Sordariomycetes	Hypocreales		Cordyceps	
+Zotu104	Fungi	Ascomycota	Sordariomycetes				
+Zotu105	Fungi	Ascomycota	Sordariomycetes			Alternaria	
+Zotu106	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Lipomycetaceae	Lipomyces	
+Zotu107	Fungi	Ascomycota	Sordariomycetes			Pseudotaeniolina	
+Zotu108	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Yamadazyma	
+Zotu109	Fungi	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor_racemosus
+Zotu11	Fungi	Saccharomycotina	Saccharomycetes			Saccharomyces	
+Zotu110	Fungi	Basidiomycota	Tremellomycetes			Itersonilia	
+Zotu111	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu112	Fungi	Basidiomycota				Botrysobasidium	
+Zotu113	Fungi	Basidiomycota	Agaricomycetes			Hymenochaetales	
+Zotu114	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Klebsormidium	
+Zotu115	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula	Rhodotorula_mucilaginosa
+Zotu116	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	Colletotrichum	
+Zotu117	Fungi	Ascomycota	Sordariomycetes			Morchella	
+Zotu118	Fungi	Ascomycota				Malassezia	
+Zotu119	Fungi	Ascomycota				Cryptococcus	
+Zotu12	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Cryptococcus	Cryptococcus_gattii_VGI
+Zotu120	Fungi	Basidiomycota	Agaricomycetes			Peniophora	
+Zotu121	Fungi	Basidiomycota	Agaricomycetes			Irpex	
+Zotu122	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Marasmiaceae	Crinipellis	
+Zotu123	Fungi					Dictyosphaerium	
+Zotu124	Fungi	Basidiomycota	Agaricomycetes	Agaricales		Schizophyllum	
+Zotu125	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu126	Fungi	Basidiomycota	Agaricomycetes			Cyanosporus	
+Zotu127	Fungi	Basidiomycota				Tausonia	
+Zotu128	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Dryadomyces	
+Zotu129	Fungi	Basidiomycota	Agaricomycetes			Hymenochaetaceae	
+Zotu13	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu130	Fungi	Basidiomycota	Agaricomycetes			Xylodon	
+Zotu131	Fungi	Ascomycota				Malassezia	
+Zotu132	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales		Raffaelea	
+Zotu133	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinellus	
+Zotu134	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Yamadazyma	
+Zotu135	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Geosmithia	
+Zotu136	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Beauveria	Baeuveria_bassiana
+Zotu137	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu138	Fungi						
+Zotu139	Fungi	Saccharomycotina				Pichia	
+Zotu14	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu140	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu141	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Rhynchogastremataceae	Papiliotrema	
+Zotu142	Fungi					Anthonomous	
+Zotu143	Fungi	Ascomycota	Sordariomycetes			Cladosporium	
+Zotu144	Fungi	Ascomycota	Sordariomycetes			Toxicocladosporium	
+Zotu145	Fungi	Ascomycota	Sordariomycetes			Raffaelea	
+Zotu146	Fungi	Ascomycota	Sordariomycetes				
+Zotu147	Fungi	Ascomycota	Sordariomycetes			Podospora	
+Zotu148	Fungi	Saccharomycotina				Wickerhamomyces	
+Zotu149	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales		Candida	
+Zotu15	Fungi	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	Malassezia_sp._H.K._174
+Zotu150	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu151	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales		Yamadazyma	
+Zotu152	Fungi	Ascomycota	Sordariomycetes			Neosetophoma	
+Zotu153	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Cryptococcus	Cryptococcus_gattii_VGI
+Zotu154	Fungi	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	
+Zotu155	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales		Candida	
+Zotu156	Fungi	Basidiomycota	Agaricomycetes			Hyphodontia	
+Zotu157	Fungi	Ascomycota	Sordariomycetes			Pithomyces	
+Zotu158	Fungi	Basidiomycota	Agaricomycetes	Polyporales		Phlebia	
+Zotu159	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales		Rhodosporidobolus	
+Zotu16	Fungi					Menella	
+Zotu160	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Bionectriaceae	Geosmithia	
+Zotu161	Fungi	Ascomycota	Sordariomycetes			Yamadazyma	
+Zotu162	Fungi	Ascomycota	Sordariomycetes				
+Zotu163	Fungi	Basidiomycota	Agaricomycetes			Irpex	
+Zotu164	Fungi	Ascomycota	Sordariomycetes			Colletotrichum	
+Zotu165	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Physalacriaceae	Flammulina	
+Zotu166	Fungi	Ascomycota	Sordariomycetes	Sordariales		Phaeoacremonium	
+Zotu167	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	
+Zotu168	Fungi	Basidiomycota	basidiomycete_yeast_sp._BG01-7-23-019A-1-1			Apiotrichum	
+Zotu169	Fungi	Ascomycota	Sordariomycetes				
+Zotu17	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Dryadomyces	
+Zotu170	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu171	Fungi	Basidiomycota				Chionosphaera	
+Zotu172	Fungi	Ascomycota	Sordariomycetes			Cladosporium	
+Zotu173	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales		Candida	
+Zotu174	Fungi	Basidiomycota	Agaricomycetes	Polyporales		Bjerkandera	
+Zotu175	Fungi	Basidiomycota	Agaricomycetes			Hymenochaetaceae	
+Zotu176	Fungi	Basidiomycota	Agaricomycetes			Peniophora	
+Zotu177	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu178	Fungi	Ascomycota	Sordariomycetes				
+Zotu179	Fungi	Basidiomycota	Agaricomycetes	Polyporales		Porostereum	
+Zotu18	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu180	Fungi	Ascomycota	Sordariomycetes			Oxydothis	
+Zotu181	Fungi	Basidiomycota	Agaricomycetes			Postia	
+Zotu182	Fungi	Saccharomycotina				Ogataea	
+Zotu183	Fungi	Ascomycota	Sordariomycetes			Alternaria	
+Zotu184	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales		Yamadazyma	
+Zotu185	Fungi	Ascomycota	Sordariomycetes				
+Zotu186	Fungi	Ascomycota				Peniophora	
+Zotu187	Fungi	Ascomycota					
+Zotu188	Fungi	Basidiomycota	Agaricomycetes			Hyphoderma	
+Zotu189	Fungi	Basidiomycota	Agaricomycetes	Polyporales		Phlebia	
+Zotu19	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Dryadomyces	
+Zotu190	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Naganishia	
+Zotu191	Fungi	Ascomycota	Sordariomycetes			Malassezia	
+Zotu192	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	Trametes	
+Zotu193	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Tricholomataceae	Megacollybia	
+Zotu194	Fungi	Ascomycota	Sordariomycetes			Cladosporium	
+Zotu195	Fungi	Basidiomycota				Vishniacozyma	
+Zotu196	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Psathyrella	
+Zotu197	Fungi	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	
+Zotu198	Fungi	Basidiomycota	Agaricomycetes			Postia	
+Zotu199	Fungi	Basidiomycota	Agaricomycetes			Irpex	
+Zotu2	Fungi	Saccharomycotina				Yamadazyma	
+Zotu20	Fungi	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	Malassezia_sp._H.K._174
+Zotu200	Fungi	Ascomycota	Sordariomycetes			Leptosphaeria	
+Zotu201	Fungi	Ascomycota	Sordariomycetes			Malassezia	
+Zotu202	Fungi	Ascomycota	Sordariomycetes	Hypocreales		Geosmithia	
+Zotu203	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu204	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu205	Fungi	Ascomycota	Sordariomycetes			Dothideomycetes	
+Zotu206	Fungi	Ascomycota	Taphrinomycetes	Taphrinales	Taphrinaceae	Taphrina	
+Zotu207	Fungi	Basidiomycota				Filobasidium	
+Zotu208	Fungi	Ascomycota	Sordariomycetes			Cladosporium	
+Zotu209	Fungi	Ascomycota	Sordariomycetes			Cladosporium	
+Zotu21	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu210	Fungi	Saccharomycotina	Saccharomycetes			Debaryomyces	
+Zotu211	Fungi	Ascomycota	Sordariomycetes			Erysiphe	
+Zotu212	Fungi	Saccharomycotina				Hyphopichia	
+Zotu213	Fungi	Ascomycota					
+Zotu214	Fungi					Menella	
+Zotu215	Fungi	Ascomycota				Colletotrichum	
+Zotu216	Fungi	Saccharomycotina				Candida	
+Zotu217	Fungi	Basidiomycota	Agaricomycetes	Agaricales		Mycetins	
+Zotu218	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Physalacriaceae	Armillaria	
+Zotu219	Fungi	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus_stolonifer
+Zotu22	Fungi	Ascomycota	Sordariomycetes			Phaeoacremonium	
+Zotu220	Fungi	Ascomycota	Sordariomycetes			Menispora	
+Zotu221	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Hypocreales	
+Zotu222	Fungi	Basidiomycota	Agaricomycetes	Agaricales		Mycena	
+Zotu223	Fungi	Ascomycota	Sordariomycetes			Yamadazyma	
+Zotu224	Fungi	Basidiomycota	Agaricomycetes	Agaricales		Entoloma	
+Zotu225	Fungi	Ascomycota	Sordariomycetes	Eurotiales		Cookeina	
+Zotu226	Fungi	Basidiomycota	Agaricomycetes	Agaricales		Rhodocollybia	
+Zotu227	Fungi	Ascomycota	Sordariomycetes			Sistotrema	
+Zotu228	Fungi	Ascomycota	Sordariomycetes			Podospora	
+Zotu229	Fungi	Ascomycota	Sordariomycetes			Alternaria	
+Zotu23	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu230	Fungi	Basidiomycota				Rhizoctonia	
+Zotu231	Fungi	Saccharomycotina				Wickerhamomyces	
+Zotu232	Fungi	Basidiomycota	Agaricomycetes	Agaricales		Armillaria	
+Zotu233	Fungi	Ascomycota	Sordariomycetes			Spissiomyces	
+Zotu234	Fungi	Ascomycota				Entyloma	
+Zotu24	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Dryadomyces	Raffaelea_sulphurea
+Zotu25	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu26	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	
+Zotu27	Fungi	Ascomycota	Sordariomycetes				
+Zotu28	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu29	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu3	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu30	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu31	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Aspergillus	
+Zotu32	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Raffaelea	
+Zotu33	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu34	Fungi	Saccharomycotina				Meyerozyma	
+Zotu35	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu36	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales		Yamadazyma	
+Zotu37	Fungi	Saccharomycotina	Saccharomycetes			Meyerozyma	
+Zotu38	Fungi	Basidiomycota	Agaricomycetes			Corticium	
+Zotu39	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Dryadomyces	
+Zotu4	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Dryadomyces	Raffaelea_sulphurea
+Zotu40	Fungi	Ascomycota	Sordariomycetes				
+Zotu41	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu42	Fungi	Ascomycota	Sordariomycetes	Eurotiales		Talaromyces	
+Zotu43	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu44	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu45	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales		Raffaelea	
+Zotu46	Fungi	Ascomycota	Sordariomycetes			Phaeoacremonium	
+Zotu47	Fungi	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	Malassezia_sp._H.K._174
+Zotu48	Fungi	Ascomycota					
+Zotu49	Fungi	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor_racemosus
+Zotu5	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu50	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	
+Zotu51	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu52	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Dryadomyces	Raffaelea_sulphurea
+Zotu53	Fungi	Basidiomycota	Agaricomycetes			Xylodon	
+Zotu54	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Aspergillus	
+Zotu55	Fungi	Ascomycota	Sordariomycetes	Eurotiales		Aspergillus	
+Zotu56	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Physalacriaceae	Strobilurus	
+Zotu57	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Chaetomium	Chaetomium_globosum
+Zotu58	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Beauveria	Baeuveria_bassiana
+Zotu59	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu6	Fungi	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	Malassezia_sp._H.K._174
+Zotu60	Fungi	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	Malassezia_sp._H.K._174
+Zotu61	Fungi	Ascomycota	Sordariomycetes			Cladosporium	
+Zotu62	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Dryadomyces	
+Zotu63	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Dryadomyces	
+Zotu64	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales	Ophiostomataceae	Raffaelea	
+Zotu65	Fungi	Saccharomycotina				Hyphopichia	
+Zotu66	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu67	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu68	Fungi	Ascomycota	Sordariomycetes			Phaeoacremonium	
+Zotu69	Fungi	Basidiomycota	Agaricomycetes	Agaricales		Rhodocollybia	
+Zotu7	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu70	Fungi	Ascomycota	Dothideomycetes			Anthonomous	
+Zotu71	Fungi	Basidiomycota	Agaricomycetes	Agaricales		Pleurotus	
+Zotu72	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Physalacriaceae	Armillaria	Armillaria_ostoyae
+Zotu73	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales		Raffaelea	
+Zotu74	Fungi	Basidiomycota	Agaricomycetes			Trichaptum	
+Zotu75	Fungi	Basidiomycota	Agaricomycetes			Terana	
+Zotu76	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu77	Fungi	Ascomycota	Sordariomycetes			Aureobasidium	
+Zotu78	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Geosmithia	
+Zotu79	Fungi	Ascomycota	Sordariomycetes			Cladosporium	
+Zotu8	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Beauveria	Baeuveria_bassiana
+Zotu80	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu81	Fungi	Basidiomycota	Agaricomycetes			Peniophora	
+Zotu82	Fungi	Ascomycota	Sordariomycetes			Aspergillus	
+Zotu83	Fungi	Ascomycota	Sordariomycetes			Alternaria	
+Zotu84	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales		Candida	
+Zotu85	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	
+Zotu86	Fungi	Ascomycota	Sordariomycetes			Epicoccum	
+Zotu87	Fungi	Ascomycota	Sordariomycetes			Leptosphaeria	
+Zotu88	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales		Yamadazyma	
+Zotu89	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	
+Zotu9	Fungi	Saccharomycotina	Saccharomycetes	Saccharomycetales		Meyerozyma	
+Zotu90	Fungi	Ascomycota	Sordariomycetes	Ophiostomatales		Raffaelea	
+Zotu91	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu92	Fungi	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	
+Zotu93	Fungi	Ascomycota	Sordariomycetes			Pithomyces	
+Zotu94	Fungi	Ascomycota				Peniophora	
+Zotu95	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Yamadazyma	
+Zotu96	Fungi	Ascomycota	Sordariomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium_commune
+Zotu97	Fungi	Ascomycota					
+Zotu98	Fungi	Ascomycota	Sordariomycetes			Sistotrema	
+Zotu99	Fungi	Ascomycota	Sordariomycetes			Botrytis	
