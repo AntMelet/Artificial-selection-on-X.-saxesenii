@@ -7,7 +7,7 @@ In this repository, you will find the data we collected. The files are organised
 
 Survival analysis: this file provides a record of the eggs, larvae, pupae, adult beetles and dispersers observed in the nests at the days of observation
 •	colony: each nest had a unique label. Labels are the group of the nest associated with a number
-•	group: nests belonged to 10 groups identified “CG1”, “CG2”, “CG3”, “CG4”, “CG5”, “EDG1”, “EDG2”, “EDG3”, “EDG4” and “EDG5”
+•	group: nests belonged to 10 groups identified “CF1”, “CF2”, “CF3”, “CF4”, “CF5”, “EDF1”, “EDF2”, “EDF3”, “EDF4” and “EDF5”
 •	lineage: the lineage the nest belongs to
 •	generation: the generation the nest belongs to
 •	date: the date of observations. The first observation was conducted on the day of initiation of the nest.
