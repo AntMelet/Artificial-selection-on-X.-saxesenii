@@ -35,7 +35,7 @@ Natural history: this file provides a record of the first times eggs, larvae, pu
 
 Behaviour: this file provides a record of the behaviours observed in the nests
 •	ID: each nest had a unique label. Labels are the group of the nest associated with a number
-•	group: nests belonged to 10 groups identified “CG1”, “CG2”, “CG3”, “CG4”, “CG5”, “EDG1”, “EDG2”, “EDG3”, “EDG4” and “EDG5”
+•	group: nests belonged to 10 groups identified “CF1”, “CF2”, “CF3”, “CF4”, “CF5”, “EDF1”, “EDF2”, “EDF3”, “EDF4” and “EDF5”
 •	lineage: the lineage the nest belongs to
 •	generation: the generation the nest belongs to
 •	larva_rest: number of times larvae were observed resting
