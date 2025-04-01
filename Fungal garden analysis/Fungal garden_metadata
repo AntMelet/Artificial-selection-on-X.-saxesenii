@@ -1,0 +1,60 @@
+	Sample	Group	Generation	Lineage	Control	Lines	Sample_name	Wild_line
+X48	X48	CF2	2	Control	treatment	C-F1-166	CF2-261	W5
+X49	X49	CF2	2	Control	treatment	C-F1-270	CF2-299	W13
+X50	X50	CF2	2	Control	treatment	C-F1-274	CF2-312	W13
+X51	X51	CF2	2	Control	treatment	C-F1-274	CF2-314	W13
+X52	X52	CF2	2	Control	treatment	0	CF2-423	W5
+X53	X53	CF2	2	Control	treatment	0	CF2-425	W5
+X54	X54	CF2	2	Control	treatment	0	CF2-587	W5
+X55	X55	CF3	3	Control	treatment	C-F1-166	CF3-19	W5
+X56	X56	CF3	3	Control	treatment	C-F1-274	CF3-56	W13
+X57	X57	CF3	3	Control	treatment	C-F1-274	CF3-66	W13
+X58	X58	CF3	3	Control	treatment	0	CF3-122	W5
+X59	X59	CF3	3	Control	treatment	0	CF3-180	W5
+X60	X60	CF3	3	Control	treatment	0	CF3-212	W5
+X61	X61	CF3	3	Control	treatment	0	CF3-214	W5
+X62	X62	CF3	3	Control	treatment	0	CF3-228	W5
+X63	X63	CF4	4	Control	treatment	0	CF4-80	W13
+X64	X64	CF4	4	Control	treatment	0	CF4-100	W13
+X65	X65	CF4	4	Control	treatment	0	CF4-119	W13
+X66	X66	CF4	4	Control	treatment	0	CF4-123	W13
+X67	X67	CF4	4	Control	treatment	0	CF4-130	W13
+X68	X68	CF4	4	Control	treatment	0	CF4-170	W5
+X69	X69	CF4	4	Control	treatment	0	CF4-176	W5
+X70	X70	CF4	4	Control	treatment	0	CF4-218	W5
+X71	X71	CF5	5	Control	treatment	0	CF5-119	W5
+X72	X72	CF5	5	Control	treatment	0	CF5-171	W13
+X73	X73	CF5	5	Control	treatment	0	CF5-235	W13
+X74	X74	CF5	5	Control	treatment	0	CF5-254	W13
+X75	X75	CF5	5	Control	treatment	0	CF5-263	W13
+X76	X76	CF5	5	Control	treatment	0	CF5-270	W13
+X77	X77	CF5	5	Control	treatment	0	CF5-271	W13
+X78	X78	CF5	5	Control	treatment	0	CF5-286	W5
+X79	X79	CF5	5	Control	negative_control	negative_control	CF5-control	control
+X80	X80	EDF2	2	Early dispersers	treatment	ED-F1-16	EDF2-19	W5
+X81	X81	EDF2	2	Early dispersers	treatment	ED-F1-16	EDF2-20	W5
+X84	X84	EDF2	2	Early dispersers	treatment	ED-F1-64	EDF2-69	W13
+X87	X87	EDF3	3	Early dispersers	treatment	ED-F1-5	EDF3-1	W5
+X89	X89	EDF3	3	Early dispersers	treatment	ED-F1-50	EDF3-53	W5
+X90	X90	EDF3	3	Early dispersers	treatment	ED-F1-16	EDF3-55	W5
+X91	X91	EDF3	3	Early dispersers	treatment	ED-F1-75	EDF3-82	W5
+X92	X92	EDF3	3	Early dispersers	treatment	0	EDF3-89	W5
+X93	X93	EDF4	4	Early dispersers	treatment	ED-F1-5	EDF4-20	W5
+X94	X94	EDF4	4	Early dispersers	treatment	ED-F1-5	EDF4-21	W5
+X95	X95	EDF4	4	Early dispersers	treatment	ED-F1-50	EDF4-35	W5
+X96	X96	EDF4	4	Early dispersers	treatment	ED-F1-79	EDF4-53	W5
+X97	X97	EDF4	4	Early dispersers	treatment	ED-F1-78	EDF4-70	W5
+X98	X98	EDF4	4	Early dispersers	treatment	ED-F1-75	EDF4-136	W5
+X99	X99	EDF4	4	Early dispersers	treatment	ED-F1-73	EDF4-144	W5
+X100	X100	EDF5	5	Early dispersers	treatment	ED-F1-50	EDF5-22	W5
+X101	X101	EDF5	5	Early dispersers	treatment	ED-F1-50	EDF5-38	W5
+X102	X102	EDF5	5	Early dispersers	treatment	ED-F1-50	EDF5-41	W5
+X103	X103	EDF5	5	Early dispersers	treatment	ED-F1-16	EDF5-60	W5
+X104	X104	EDF5	5	Early dispersers	treatment	ED-F1-78	EDF5-118	W5
+X105	X105	EDF5	5	Early dispersers	treatment	ED-F1-78	EDF5-124	W5
+X106	X106	EDF5	5	Early dispersers	treatment	ED-F1-75	EDF5-137	W5
+X107	X107	EDF5	5	Early dispersers	negative_control	negative_control	EDF5-control	control
+negC	negC	negative_control			negative_control	negative_control	negC	control
+posC	posC	positive_control			positive_control	positive_control	posC	control
+negContr	negContr	negative_control			negative_control	negative_control	negContr	control
+posContr	posContr	positive_control			positive_control	positive_control	posContr	control
