@@ -21,7 +21,7 @@ Survival analysis: this file provides a record of the eggs, larvae, pupae, adult
 Natural history: this file provides a record of the first times eggs, larvae, pupae, adults and dispersers were observed in the nests. The time of end of the nests, and the total number of dispersing females for each, are also recorded
 •	ID: each nest had a unique label. Labels are the group of the nest associated with a number
 •	date_colony: The date of initiation of the nest
-•	group: nests belonged to 10 groups identified “CG1”, “CG2”, “CG3”, “CG4”, “CG5”, “EDG1”, “EDG2”, “EDG3”, “EDG4” and “EDG5”
+•	group: nests belonged to 10 groups identified “CF1”, “CF2”, “CF3”, “CF4”, “CF5”, “EDF1”, “EDF2”, “EDF3”, “EDF4” and “EDF5”
 •	lineage: the lineage the nest belongs to
 •	generation: the generation the nest belongs to
 •	fungal_garden: the date we observed the developing fungal garden
