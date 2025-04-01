@@ -5,14 +5,6 @@ In this repository, you will find the data we collected. The files are organised
 
 1.	Life history and behaviour: This folder contains the raw data related to the life history traits and behaviours of the beetles. The data are organised in different files
 
-Success Rate: this file provides a record of the success or failure of all nests that were initiated during the study
-•	colony: each nest had a unique label. Labels are the group of the nest associated with a number
-•	group: nests belonged to 10 groups identified “CG1”, “CG2”, “CG3”, “CG4”, “CG5”, “EDG1”, “EDG2”, “EDG3”, “EDG4” and “EDG5”
-•	condition: the state of the nest ten days after initiation
-•	condition_num: a value reflecting the state of the nest after ten days in numerical format (0 = nest had failed, 1 = nest was successful)
-•	lineage: the lineage the nest belongs to
-•	generation: the generation the nest belongs to
-
 Survival analysis: this file provides a record of the eggs, larvae, pupae, adult beetles and dispersers observed in the nests at the days of observation
 •	colony: each nest had a unique label. Labels are the group of the nest associated with a number
 •	group: nests belonged to 10 groups identified “CG1”, “CG2”, “CG3”, “CG4”, “CG5”, “EDG1”, “EDG2”, “EDG3”, “EDG4” and “EDG5”
